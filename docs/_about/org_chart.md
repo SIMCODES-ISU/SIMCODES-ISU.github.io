@@ -10,7 +10,6 @@ This page provides a formal overview of the organisational structure of the SIMC
 {% include toc %}
 
 # SIMCODES Organization Structure
-Iowa State University (ISU)  and the proposal participants are committed to SIMCODES. ISU has multiple support mechanisms for REU programs, and a letter of support is provided.
 
 Project Structure:
 
