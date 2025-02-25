@@ -68,7 +68,7 @@ enlightening and productive (and hopefully fun) experience!!!
 
 # Grievance Policy
 
-The SIMCODES REU program at ISU is committed to a respectful, inclusive, and professional environment. This policy provides a clear process for addressing concerns related to misconduct, discrimination, academic disputes, or program-related issues.
+The SIMCODES REU program at ISU is committed to a respectful and professional environment. This policy provides a clear process for addressing concerns related to misconduct, discrimination, academic disputes, or program-related issues.
 
   **Grievance Process**
 
