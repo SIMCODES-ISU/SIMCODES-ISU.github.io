@@ -1,15 +1,14 @@
 ---
 title: Machine Learning-Enhanced Computational Modeling of Metal-Protein Interactions
-# permalink: /projects/metal_protein/
 image:
-  path: /images/about_org.png
-  thumbnail: /images/about_org.png
+  path: /images/metal.jpg
+  thumbnail: /images/metal.jpg
   width: 50%  # Reduce the display size to 50% of the container
   height: auto
   alt: "Organization Structure"
 ---
 
-Peng Xu, Mark Gordon (Chem) and Qi Li, Mengdi Huai (CS)
+Mentors: Peng Xu, Mark Gordon, Qi Li, Mengdi Huai
 
 {% include toc %}
 
