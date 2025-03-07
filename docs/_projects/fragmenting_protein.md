@@ -43,7 +43,8 @@ fragmenting proteins that minimizes the error in the approximation.
 - Infrastructure for storing input, output, and curated data.
 
 3. **Train AI/ML Models for Fragmentation**
-- To be written by Qi.
+- Pre-process data for running ProtBERT model.
+- Fine-tune ProtBERT to predict if adjacent amino acids should be grouped or separated. 
 
 # Expected Outcomes
 
