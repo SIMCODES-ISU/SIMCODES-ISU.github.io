@@ -95,13 +95,15 @@ The committee consists of the Principal Investigator (PI), the Co-Principal Inve
   - Applications are initially reviewed by at least two committee members.
 
 - Discussion Phase 
-  - The top 30 applications are discussed collectively.
+  - Each reviewer applies the rubric to all applications and independently selects their top 30 candidates based on their scores.
   - During the discussion, consider the following factors:
     - Distribution of gender
     - Nature of the home institution
     - Ethnicity
 
 - Final Selection
+  - Merge the individual top 30 lists from all reviewers into a combined pool.
+  - Select the final 30 candidates from this pool based on the highest overall scores.
   - Narrow down the top 30 to the top 10 candidates.
   - The remaining 20 applications will be kept as backup.
 
