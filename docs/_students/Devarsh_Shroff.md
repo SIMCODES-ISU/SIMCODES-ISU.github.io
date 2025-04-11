@@ -30,11 +30,11 @@ AI/ML enthusiast, and currently exploring research opportunities in this field.
 
 **Description**: Time series based market prediction   
 **Tech Stack**: Python, TensorFlow, LSTM based RNN   
-**Link**: [GitHub Repo](https://github.com/DevarshShroff/Stock-Market-Price-Predictor-with-LSTM-keras-)
+**Link**: [Stock Market Price Predictor with LSTM keras](https://github.com/DevarshShroff/Stock-Market-Price-Predictor-with-LSTM-keras-)
 
 **Description**: SIMCODES Contribution \ 
 **Tech Stack**:(TBD) \
-**Link**: [GitHub Repo]([https://github.com/yourusername/project](https://github.com/SIMCODES-ISU/SIMCODES-ISU.github.io))
+**Link**: [SIMCODES GitHub]([https://github.com/yourusername/project](https://github.com/SIMCODES-ISU/SIMCODES-ISU.github.io))
 
 ---
 
