@@ -3,15 +3,16 @@ title: "Devarsh Shroff"
 layout: page
 author: "Devarsh Shroff"
 image:
-  thumbnail: docs/_students/images/Devarsh_Shroff.png
-  path: docs/_students/images/Devarsh_Shroff_banner.png
+  thumbnail: /students/images/Devarsh_Shroff.png
+  path: /students/images/Devarsh_Shroff_banner.png
 ---
 
 # About Me
 
-Hi! I'm Devarsh Shroff, currently a Second Year Computer Science student at
-Diablo Valley College. I’m passionate about software development and also an 
+Hi! I'm Devarsh Shroff, currently a Second Year Computer Science student at \
+Diablo Valley College. I’m passionate about software development and also an \
 AI/ML enthusiast, and currently exploring research opportunities in this field.
+
 ---
 
 ## 🛠 Skills & Technologies
@@ -31,8 +32,8 @@ AI/ML enthusiast, and currently exploring research opportunities in this field.
 **Tech Stack**: Python, TensorFlow, LSTM based RNN   
 **Link**: [GitHub Repo](https://github.com/DevarshShroff/Stock-Market-Price-Predictor-with-LSTM-keras-)
 
-**Description**: SIMCODES Contribution 
-**Tech Stack**:(TBD) 
+**Description**: SIMCODES Contribution \ 
+**Tech Stack**:(TBD) \
 **Link**: [GitHub Repo]([https://github.com/yourusername/project](https://github.com/SIMCODES-ISU/SIMCODES-ISU.github.io))
 
 ---
