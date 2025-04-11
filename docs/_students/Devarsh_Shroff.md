@@ -9,8 +9,8 @@ image:
 
 # About Me
 
-Hi! I'm Devarsh Shroff, currently a Second Year Computer Science student at \
-Diablo Valley College. I’m passionate about software development and also an \
+Hi! I'm Devarsh Shroff, upcoming Third Year Computer Science student at \
+San Jose State University (SJSU). I’m passionate about software development and also an \
 AI/ML enthusiast, and currently exploring research opportunities in this field.
 
 ---
