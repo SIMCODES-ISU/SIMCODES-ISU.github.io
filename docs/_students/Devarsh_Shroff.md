@@ -9,9 +9,9 @@ image:
 
 # About Me
 
-Hi! I'm Devarsh Shroff, upcoming Third Year Computer Science student at \
-San Jose State University (SJSU). I’m passionate about software development and also an \
-AI/ML enthusiast, and currently exploring research opportunities in this field.
+Hi! I'm Devarsh Shroff, upcoming Third Year Computer Science student at San \
+Jose State University (SJSU). I’m passionate about software development and also \
+an AI/ML enthusiast, and currently exploring research opportunities in this field.
 
 ---
 
@@ -33,7 +33,7 @@ AI/ML enthusiast, and currently exploring research opportunities in this field.
 **Link**: [Stock Market Price Predictor with LSTM keras](https://github.com/DevarshShroff/Stock-Market-Price-Predictor-with-LSTM-keras-)
 
 **Description**: SIMCODES Contribution \ 
-**Tech Stack**:(TBD) \
+**Tech Stack**:(TBD)\
 **Link**: [SIMCODES GitHub]([https://github.com/yourusername/project](https://github.com/SIMCODES-ISU/SIMCODES-ISU.github.io))
 
 ---
