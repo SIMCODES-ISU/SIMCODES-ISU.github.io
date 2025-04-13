@@ -9,8 +9,7 @@ image:
 
 # About Me
 
-Hi! I'm Alex Haskel, currently a third-year undergraduate student at
-Hunter College, in New York City. I’m passionate about computer science, physics, philosophy, and math. In particular, I am interested in AI, ML, scientific computing, algorithms, and computer vision.
+Hi! I'm Alex Haskel, currently a third-year undergraduate student at Hunter College, in New York City. I’m passionate about computer science, physics, philosophy, and math. In particular, I am interested in AI, ML, scientific computing, algorithms, and computer vision.
 
 ---
 
