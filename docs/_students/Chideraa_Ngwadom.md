@@ -8,7 +8,7 @@ image:
 ---
 
 # About Me
-
+ 
 Hi! I'm Chideraa Ngwadom, currently a second-year undergraduate student-athlete at
 Amherst College in the Department of Computer Science and Psychology. I’m passionate about machine learning, artificial intelligence, data science, biostatistics, psychology, and medical health, and currently exploring
 opportunities in machine learning and AI.
