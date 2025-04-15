@@ -3,8 +3,8 @@ title: "Chideraa Ngwadom"
 layout: page
 author: "Chideraa Ngwadom"
 image:
-  thumbnail: /students/images/Chideraa_Ngwadom_thumbnail.jpeg
-  path: /students/images/ChideraaNgwadomBanner_header.jpg
+  thumbnail: /students/images/ChideraaNgwadom.jpeg
+  path: /students/images/ChideraaNgwadomBanner.jpg
 ---
 
 # About Me
