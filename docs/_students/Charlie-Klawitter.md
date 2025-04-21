@@ -25,9 +25,9 @@ opportunities in mathematics and computer science.
 
 ## 📚 Projects or SIMCODES Contributions
 
-### 📌 Project Name or Internship Work
+### 📌 Machine Learning-Enhanced Computational Modeling of Metal-Protein Interactions 
 
-**Description**: Short summary of the project or your role.  
+**Description**: Train and refine ML algorithms to predict metal-ion binding strengths using existing and newly generated datasets.   
 **Tech Stack**: Python, GitHub, SQLite  
 **Link**: [GitHub Repo](https://github.com/yourusername/project)
 
