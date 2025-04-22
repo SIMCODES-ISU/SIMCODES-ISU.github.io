@@ -28,6 +28,7 @@ opportunities in mathematics and computer science.
 ### 📌 Machine Learning-Enhanced Computational Modeling of Metal-Protein Interactions 
 
 **Description**: Train and refine ML algorithms to predict metal-ion binding strengths using existing and newly generated datasets.   
+
 **Tech Stack**: Python, GitHub, SQLite  
 **Link**: [GitHub Repo](https://github.com/yourusername/project)
 
