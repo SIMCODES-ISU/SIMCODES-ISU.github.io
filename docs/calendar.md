@@ -30,8 +30,36 @@ permalink: /calendar/
         {
           title: 'Final Symposium',
           start: '2025-08-01'
+        },
+        {
+        title: 'Songwriter Showcase: Wolfskill and The Wild',
+        start: '2025-07-15T18:00:00',
+        end: '2025-07-15T20:00:00',
+        description: 'Catalpa Courtyard, Reiman Gardens\n$15-$20\n\nWolfskill and The Wild take the stage for the third of five performances in the Goldfinch Room Songwriter Showcase series at Reiman Gardens. A local food truck will be on site and beverages will be available for purchase. Outside food and nonalcoholic beverages are allowed. Audience members are encouraged to bring lawn chairs or blankets for seating on the lawn. Inclement weather could move the performance to the Garden Room.'
+       },
+        {
+        title: 'Songwriter Showcase: David G. Smith and Carol Montag',
+        start: '2025-06-24T18:00:00',
+        end: '2025-06-24T20:00:00',
+        description: 'Catalpa Courtyard, Reiman Gardens\n$15-$20\n\nDavid G. Smith and Carol Montag take the stage for the second of five performances in the Goldfinch Room Songwriter Showcase series at Reiman Gardens. A local food truck will be on site and beverages will be available for purchase. Outside food and nonalcoholic beverages are allowed. Audience members are encouraged to bring lawn chairs or blankets for seating on the lawn. Inclement weather could move the performance to the Garden Room.'
+      },
+      {
+        title: 'Songwriter Showcase: The Bird Hunters',
+        start: '2025-05-27T18:00:00',
+        end: '2025-05-27T20:00:00',
+        description: 'Catalpa Courtyard, Reiman Gardens\n$15-$20\n\nThe Bird Hunters open as the first of five performances in the Goldfinch Room Songwriter Showcase series at Reiman Gardens. A local food truck will be on site and beverages will be available for purchase. Outside food and nonalcoholic beverages are allowed. Audience members are encouraged to bring lawn chairs or blankets for seating on the lawn. Inclement weather could move the performance to the Garden Room.'
+      },
+      {
+        title: 'Frankie Valli and The Four Seasons – The Last Encores Tour',
+        start: '2025-06-29T19:30:00',
+        description: 'Stephens Auditorium\n$45 and up\n\n"The Last Encores Tour," featuring 2025 Lifetime Achievement Grammy Winner Frankie Valli and the Four Seasons. This tour promises to be a fantastic celebration of Valli\'s legendary career, showcasing his timeless music and incredible showmanship.'
+      }
+      ],
+      eventClick: function(info) {
+        if (info.event.extendedProps.description) {
+          alert(info.event.title + '\n\n' + info.event.extendedProps.description);
         }
-      ]
+      }
     });
     calendar.render();
   });
