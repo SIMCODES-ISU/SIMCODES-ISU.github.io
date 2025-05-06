@@ -1,7 +1,7 @@
 ---
 title: Curated List of Bootcamp Material
 layout: page
-permalink: /resources/bootcamp/
+permalink: /bootcamp/
 image:
   thumbnail: /resources/images/bootcamp_thumbnail.jpeg
   path: /resources/images/bootcamp_banner.png
