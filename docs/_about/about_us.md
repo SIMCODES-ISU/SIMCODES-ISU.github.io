@@ -36,12 +36,3 @@ training in interdisciplinary research and professional development. We expect
 to increase the number of students with diverse backgrounds and limited
 research exposure who continue into STEM degree programs.
 
-# Contacts
-
-For general SIMCODES questions, comments, or concerns please reach out to either
-and/or both:
-
-- [Theresa Windus](https://simcodes-isu.github.io/mentors/theresa_windus/)
-  - Principal Investigator (PI)
-- [Ryan Richard](https://simcodes-isu.github.io/mentors/ryan_richard/) 
-  - Co-PI 

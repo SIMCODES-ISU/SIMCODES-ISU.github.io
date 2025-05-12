@@ -2,13 +2,18 @@ Ryan Richard:
   name: Ryan Richard
   picture: /images/mentors/ryan_richard.png
   links:
-    - title: Home Page
-      url: https://rmrresearch.github.io/
+    - url: https://rmrresearch.github.io/
+    - icon: fab fa-github
+      url: https://github.com/ryanmrichard
+    - icon: fas fa-envelope
+      url: mailto:rrichard@iastate.edu
 Theresa Windus:
   name: Theresa Windus
   picture: /images/mentors/theresa_windus.png
   links:
     - url: https://www.chem.iastate.edu/people/theresa-windus
+    - url: mailto:twindus@iastate.edu
+      icon: fas fa-envelope
 Davit Potoyan:
   name: Davit Potoyan
   picture: /images/mentors/davit_potoyan.jpg
