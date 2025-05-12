@@ -1,8 +1,8 @@
 ---
 title: Living on Campus at ISU
 image:
-  path: /about/images/campanile-ariel.jpg
-  thumbnail: /about/images/campanile-ariel.jpg
+  path: /about/images/campanile-aerial.jpg
+  thumbnail: /about/images/campanile-aerial.jpg
   width: 50% # Reduce the display size to 50% of the container
   height: auto
   alt: "Photo of ISU's Campus"
