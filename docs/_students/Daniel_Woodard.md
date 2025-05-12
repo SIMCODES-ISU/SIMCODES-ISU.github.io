@@ -22,8 +22,7 @@ Hi! I'm Daniel Woodard, but I go by Gus. I am currently a second-year undergrad 
 
 ## 📚 Projects Contributions
 
-### 📌 Automating the Fragmentation of Proteins
-
+### Automating the Fragmentation of Proteins
 
 **Description**: I will be working on the Develop Components for Automating Fragmentation part of the project. 
 
