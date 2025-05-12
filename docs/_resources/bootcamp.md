@@ -18,7 +18,9 @@ This page is a one-stop shop for perusing resources affiliated with the SIMCODES
 
 ## Orientation
 
-TODO: Owner Ryan
+<center>
+<embed src="https://raw.githubusercontent.com/SIMCODES-ISU/training_materials/main/orientation/orientation.pdf" type="application/pdf" width="640" height="400"/>
+</center>
 
 ## Coding 101: Setting Up a Software Development Environment (SDE)
 
@@ -26,4 +28,8 @@ TODO: Owner Ryan
 <embed src="https://raw.githubusercontent.com/SIMCODES-ISU/training_materials/main/sde_setup/sde_setup.pdf" type="application/pdf" width="640" height="400"/>
 </center>
 
-## The Next Topic
+## Version Control, Git, GitHub
+
+<center>
+<embed src="https://raw.githubusercontent.com/SIMCODES-ISU/training_materials/main/github/github.pdf" type="application/pdf" width="640" height="400"/>
+</center>
