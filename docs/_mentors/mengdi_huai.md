@@ -1,6 +1,6 @@
 ---
 title: "Mengdi Huai"
-layout: page
+layout: post
 author: Mengdi Huai
 image:
   thumbnail: /images/mentors/mengdi_huai.png

@@ -1,11 +1,12 @@
-Rya _Richard:
+Ryan Richard:
   name: Ryan Richard
   picture: /images/mentors/ryan_richard.png
   links:
-    - url: https://rmrresearch.github.io/
+    - title: Home Page
+      url: https://rmrresearch.github.io/
 Theresa Windus:
   name: Theresa Windus
-  picture: /images/mentors/theresa_windus.jpg
+  picture: /images/mentors/theresa_windus.png
   links:
     - url: https://www.chem.iastate.edu/people/theresa-windus
 Davit Potoyan:
@@ -30,7 +31,7 @@ Mengdi Huai:
     - url: https://mdhuai.github.io/
 Mark Gordon:
   name: Mark Gordon
-  picture: /images/mentors/mark_gordon.jpeg
+  picture: /images/mentors/mark_gordon.jpg
   links:
     - url: https://www.chem.iastate.edu/people/mark-gordon
 Xueyu Song:

@@ -1,6 +1,6 @@
 ---
 title: "Davit Potoyan"
-layout: page
+layout: post
 author: Davit Potoyan
 image:
   thumbnail: /images/mentors/davit_potoyan.jpg
