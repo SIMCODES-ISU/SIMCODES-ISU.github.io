@@ -6,16 +6,19 @@ image:
   width: 50% # Reduce the display size to 50% of the container
 ---
 
-For now this is a list of the forms that must be filled out prior to your
-arrival for the summer. The welcome email will detail the deadline for filling
-out the forms. Eventually these should link to the forms...
+This is a list of forms that will need to be filled out once you agree to join
+SIMCODES. Many of these forms involve dates and year-to-year specifics. Please
+do not fill them out until you are told to.
 
-
-- Offer letter
-- Agreement form
-- Conflict of interest form
-- W9
-- EFT Authorization
-- ISU badge forms
-- Ames National Laboratory Contributor form
+- [Offer letter packet](/resources/forms/offer_letter.docx)
+    - Offer Letter
+    - Contact Information
+    - Participation Agreement
+    - Medical Emergency Contact
+    - Authorization Use of Photograph/Image/Voice Recording
+- [Conflict of interest](/resources/forms/conflict_of_interest.pdf)
+- [W9](/resources/forms/w9.pdf)
+- [Electronic Fund Transfer Authorization](/resources/forms/eft.pdf)
+- [ISU badge forms](https://www.isucard.iastate.edu/files/documents/2025-04/Affiliate%20Non%20ISU%20Employee%20Database%20Input%20Form%202026.docx)
+- [Ames National Laboratory Contributor](/resources/forms/ames_contributor.pdf)
 - [FGSAA Form](https://iastate.qualtrics.com/jfe/form/SV_4OUDeL2IGiUPrCJ)

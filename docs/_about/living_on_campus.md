@@ -45,9 +45,7 @@ within walking distance of university housing, and near CyRide stops.
 To make your stay easier, SIMCODES will lend you some living essentials 
 including:
 
-- Plates, bowls, and cups.
-- Forks, knives, and spoons.
-- Pots.
+- TBD
 
 If you want something more fancy like a sous vide or cheese board you'll have
 to bring that. Ames has a number of second hand stores if you forget something.
@@ -65,3 +63,20 @@ to bring that. Ames has a number of second hand stores if you forget something.
 - Real ID. As part of SIMCODES you will be have the opportunity to be a 
   contributor to Ames National Laboratory, part of the US Department of Energy's
   Laboratory system. To onboard you, you must provide a Real ID. 
+  - See [here](https://www.tsa.gov/travel/security-screening/identification) for
+    alternative forms of identification.
+- Charging cables.
+- Day-to-day clothes. Laundry is available.
+- Personnel items.
+- One nicer outfit (e.g., button-down shirt, slacks, dress, or skirt). Many
+  students prefer to dress up a bit for the end of term symposium.
+- Athletic clothes if you plan on playing sports (plenty of fields within 
+  walking distances) or going to the gym.
+- Swimsuit if you want to swim (Ames has a water park within walking distance).
+- Alternative shoes (lots of hiking opportunities).
+- Umbrella and/or raincoat.
+
+We will arrange a small up front direct deposit which can be used to buy missing
+supplies when you get here. We will arrange for graduate students in our group
+to help provide rides on move-in day.
+
