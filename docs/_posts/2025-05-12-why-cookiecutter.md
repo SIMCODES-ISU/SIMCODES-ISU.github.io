@@ -1,8 +1,10 @@
 ---
-title: CookieCutter Guide
-layout: page
-permalink: /cookiecutter-guide/
+title: "Why we decided to use CookieCutter"
 ---
+
+This post was originally the introduction to notes on using CookieCutter. With
+the CookieCutter instructions moving into a tutorial we wanted to save this 
+content somewhere, hence this post.
 
 # CookieCutter
 

@@ -1,6 +1,6 @@
 ---
 title: "Peng Xu"
-layout: page
+layout: post
 author: Peng Xu
 image:
   path: /mentors/images/fragment_based_methods.png

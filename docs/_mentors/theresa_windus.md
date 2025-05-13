@@ -1,6 +1,6 @@
 ---
 title: "Theresa L. Windus"
-layout: page
+layout: post
 author: Theresa Windus
 image:
   path: /mentors/images/theresa_banner.png

@@ -1,6 +1,6 @@
 ---
 title: "Mark S. Gordon"
-layout: page
+layout: post
 author: Mark Gordon
 image:
   thumbnail: /images/mentors/mark_gordon.jpg

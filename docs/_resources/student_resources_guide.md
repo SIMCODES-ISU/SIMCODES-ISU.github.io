@@ -1,72 +1,32 @@
 ---
-title: Start with GitHub, Linux Access , and Python Dev Setup
+title: Educational Resources for Students
 layout: page
 permalink: /student-resources/
 ---
 
-# Resources for Students: GitHub, Linux Access, and Python Dev Setup
+# Educational Resources for Students
 
-This guide is designed to help students—especially those new to programming—
-quickly get up to speed with essential development tools and environments. It
-includes beginner-friendly resources for learning GitHub, accessing Linux from
-any operating system, and setting up a solid Python development environment.
-Whether you're starting your first project or just need a reference, this
-document aims to make your SIMCODES internship journey smoother and easy.
+This page collects various websites that students may find helpful as they
+learn topics associated with SIMCODES.
 
 {% include toc %}
 
 ---
+## 🔗 Useful Python Resources
 
-## 1. GitHub Resources for Beginners
+- [Davit’s 3 day tutorial](https://dpotoyan.github.io/Statmech4ChemBio/labs/py-lab/intro.html)
+  - Covers scientific and numerical python
+- [Scientific Computing for Chemists](https://tinyurl.com/2sr92mkt) 
+  - Has lots of python examples in the context of chem/bio data analysis and 
+    modeling.
+- [Think Python](https://allendowney.github.io/ThinkPython/)
+  - Classic, short and well rounded book about python.
+- [Software carpentry](https://software-carpentry.org/lessons/) 
+  - Basics of Unix, git and python
 
-Using Git and GitHub allows you to manage your code versions, collaborate with
-others, and back up your projects in the cloud.
+---
 
-### Step 1: Set Up Git
-
-```bash
-git config --global user.name "Your Name"
-git config --global user.email your.email@example.com
-```
-
-### Step 2: Create a New Local Repository
-
-```bash
-mkdir my_project
-cd my_project
-git init
-```
-
-### Step 3: Add and Commit Files
-
-```bash
-echo "# My Project" > README.md
-git add README.md
-git commit -m "Initial commit"
-```
-
-### Step 4: Connect to a Remote Repository
-
-First, create a repository on GitHub. Then:
-
-```bash
-git remote add origin https://github.com/your-username/your-repo.git
-git branch -M main
-git push -u origin main
-```
-
-### Step 5: Essential Git Commands
-
-```bash
-git status           # Check status
-git log              # View commit history
-git add .            # Add all changes
-git commit -m "msg"  # Commit changes
-git pull             # Pull changes from GitHub
-git push             # Push local changes
-```
-
-### 🔗 Useful GitHub Resources
+## 🔗 Useful GitHub Resources
 
 - [GitHub Docs - Getting Started](https://docs.github.com/en/get-started)
 - [Git Handbook by GitHub](https://guides.github.com/introduction/git-handbook/)
@@ -75,114 +35,27 @@ git push             # Push local changes
 
 ---
 
-## 2. Accessing Linux from Different Operating Systems
+## 🔗 Useful Molecular Dynamics Resources
 
-### a. Windows (WSL - Windows Subsystem for Linux)
-
-1. Open PowerShell as Administrator:
-   ```bash
-   wsl --install
-   ```
-2. Restart your computer when prompted
-3. Choose a Linux distribution (e.g., Ubuntu)
-4. Open Ubuntu from the Start Menu
-5. Install packages:
-   ```bash
-   sudo apt update
-   sudo apt install python3 python3-pip
-   ```
-
-### b. macOS
-
-1. Open Terminal (`Cmd + Space` → type "Terminal")
-2. Install Homebrew:
-   ```bash
-   /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
-   ```
-3. Install Python and Git:
-   ```bash
-   brew install python git
-   ```
-4. Try a command:
-   ```bash
-   echo "Hello from the terminal!"
-   ```
-
-## This is how your terminal will look like if you are using the Mac
-
-![Open Terminal](/resources/images/terminal.png)
-
-### c. Linux
-
-1. Open Terminal (`Ctrl + Alt + T`)
-2. Update and install Python:
-   ```bash
-   sudo apt update
-   sudo apt install python3 python3-pip
-   ```
-3. Try a command:
-   ```bash
-   echo "Welcome to Linux!"
-   ```
+- [Best Practices for Molecular Simulations](https://tinyurl.com/4w3wv897)
+- [openmm-tutorial-msbs](https://github.com/molmod/openmm-tutorial-msbs)  
+- [OpenMM tutorials](https://openmm.github.io/openmm-cookbook/dev/tutorials.html)
+  - If you want to use OpenMM in Colab copy these cells.
+  - First Cell:
+    -  ```.py
+       !pip install -q condacolab
+       import condacolab
+       condacolab.install()
+       ```
+  - Second Cell.
+    - ```.py
+      %%capture
+      !conda install -c conda-forge openmm mdtraj
+      ```
 
 ---
 
-## 3. Setting Up a Python Development Environment
+## 🔗 Useful Machine Learning Resources
 
-### a. Install Python
-
-- [Download Python](https://www.python.org/downloads/)
-- During install: ✅ "Add Python to PATH"
-- Verify:
-  ```bash
-  python --version
-  ```
-
-### b. Create and Activate a Virtual Environment
-
-```bash
-python -m venv myenv
-```
-
-- On macOS/Linux:
-  ```bash
-  source myenv/bin/activate
-  ```
-- On Windows:
-  ```bash
-  myenv\Scripts\activate
-  ```
-
-### c. Install Python Packages
-
-```bash
-pip install numpy pandas matplotlib
-```
-
-### d. Setting Up VS Code
-
-1. Download: [https://code.visualstudio.com/](https://code.visualstudio.com/)
-2. Install Python extension (by Microsoft)
-3. Open your project folder
-4. Open a `.py` file and VS Code will detect the environment
-
-Optional: Install the Jupyter extension to run notebooks inside VS Code.
-
-### e. Prettify Your Code (Optional)
-
-- **Black (Formatter):**
-
-  ```bash
-  pip install black
-  black my_script.py
-  ```
-
-- **Flake8 (Linter):**
-  ```bash
-  pip install flake8
-  flake8 my_script.py
-  ```
-
----
-
-Happy coding and welcome to SIMCODES! 🚀
+- [PyTorch Basics](https://pytorch.org/tutorials/)
+- [Learn Pytorch step by step](https://tinyurl.com/mrxhhbfr)
