@@ -45,7 +45,12 @@ within walking distance of university housing, and near CyRide stops.
 To make your stay easier, SIMCODES will lend you some living essentials 
 including:
 
-- TBD
+- Cups, coffee mugs
+- Plates and serving dishes
+- Silverware, a few utensils
+- Pots and pans
+- Oven mitts and kitchen towels
+- Welcome basket with essentials like toilet paper, paper towels, and dish soap.
 
 If you want something more fancy like a sous vide or cheese board you'll have
 to bring that. Ames has a number of second hand stores if you forget something.
