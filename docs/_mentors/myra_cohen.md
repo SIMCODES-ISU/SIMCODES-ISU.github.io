@@ -2,8 +2,9 @@
 title: "Myra B. Cohen"
 layout: page
 image:
-  path: /mentors/images/software_testing.png
-  thumbnail: /images/mentors/myra_cohen_0.jpg
+  path: /mentors/images/myra_banner.png
+  thumbnail: /images/mentors/myra_cohen.jpg
+
   caption: "Software Testing Research"
 author: Myra Cohen
 ---
