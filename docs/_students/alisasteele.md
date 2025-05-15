@@ -4,7 +4,7 @@ layout: page
 author: "Alisa Steele"
 image:
   thumbnail: /students/images/alisasteele.png
-  path: /students/images/steeleheader.png
+  path: /students/images/alisa.png
 ---
 
 # About Me

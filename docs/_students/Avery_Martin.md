@@ -3,11 +3,11 @@ title: "Avery Martin"
 layout: page
 author: "AveryMartin"
 image:
-  thumbnail: /students/images/IMG_7276 3.jpg
-  path: /students/images/IMG_0079.AVIF
+  thumbnail: /students/images/Avery.jpg
+  path: /students/images/Avery_Banner.AVIF
 ---
 
-# About me
+# About Me
 
 Hi! My name is Avery Martin, and I'm a first year Biochemistry student at Southern Illinois University Carbondale. After graduating, I want to pursue an MD/PhD program and become a physician scientist. I'm very excited to dive into the SIMCODES program!
 
