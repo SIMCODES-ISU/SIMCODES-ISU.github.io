@@ -2,7 +2,7 @@
 title: "Ryan M. Richard"
 layout: page
 image:
-  path: /mentors/images/fragment_based_methods.png
+  path: /mentors/images/ryan_banner.png
   thumbnail: /images/mentors/ryan_richard.png
   caption: "Fragment Based Method Research"
 author: Ryan Richard
