@@ -1,11 +1,9 @@
 ---
 title: "Qi Li"
-layout: page
+layout: post
 image:
   thumbnail: /images/mentors/qi_li.jpg
   path: /images/AI_chemistry.png
-
-
 author: Qi Li
 ---
 
