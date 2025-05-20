@@ -4,7 +4,7 @@ layout: post
 author: Davit Potoyan
 image:
   thumbnail: /images/mentors/davit_potoyan.jpg
-  path: /mentors/images/fragment_based_methods.png
+  path: /mentors/images/davit_banner.png
 ---
 
 # About Me

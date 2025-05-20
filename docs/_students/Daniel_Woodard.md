@@ -3,8 +3,7 @@ title: "Daniel Woodard"
 layout: page
 author: "Daniel Woodard"
 image:
-  thumbnail: //students/images/DanielWoodard.jpeg
-
+  thumbnail: /students/images/Daniel.jpg
   path: /students/images/DanielWoodardChempic.jpeg
 ---
 

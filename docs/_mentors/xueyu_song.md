@@ -2,7 +2,7 @@
 title: "Xueyu Song"
 layout: post
 image:
-  path: /mentors/images/fragment_based_methods.png
+  path: /mentors/images/xueyu_banner.png
   thumbnail: /images/mentors/xueyu_song.png
 author: Xueyu Song
 ---

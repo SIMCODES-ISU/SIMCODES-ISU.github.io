@@ -4,7 +4,7 @@ layout: post
 author: Mark Gordon
 image:
   thumbnail: /images/mentors/mark_gordon.jpg
-  path: /mentors/images/fragment_based_methods.png
+  path: /mentors/images/mark_banner.png
 ---
 
 # About Me

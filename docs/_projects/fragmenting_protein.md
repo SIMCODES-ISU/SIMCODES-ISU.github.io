@@ -1,8 +1,8 @@
 ---
 title: Automating the Fragmentation of Proteins
 image:
-  path: /projects/images/fragmenting_protein.png
-  thumbnail: /projects/images/fragmenting_protein.png
+  path: /projects/images/fragmenting_protein.jpg
+  thumbnail: /projects/images/fragmenting_protein.jpg
   width: 50% # Reduce the display size to 50% of the container
   height: auto
   alt: "A group of scientists cut fragments up with scissors."
