@@ -1,6 +1,6 @@
 ---
 title: "Ryan M. Richard"
-layout: page
+layout: post
 image:
   path: /mentors/images/ryan_banner.png
   thumbnail: /images/mentors/ryan_richard.png
