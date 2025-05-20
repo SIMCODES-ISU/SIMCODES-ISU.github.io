@@ -9,7 +9,7 @@ image:
 
 # About Me
 
-Hi! I'm Gabriela Campbell, a 4th year undergraduate at Butler University's college of Liberal Arts and Sciences. I'm passionate about computational mathematics, machine learning, and algorithm analysis. Some of my research interests are in physical chemistry, specifically in modelling electron transmissions in chains of atoms.
+Hi! I'm Gabriela Campbell, a 4th year undergrad at Butler University's College of Liberal Arts and Sciences. I'm majoring in pure mathematics with a minor in computer science, and am passionate about computational mathematics, machine learning, and algorithm analysis. Some of my research interests are in representations of Lie Algebras, as well as physical chemistry, specifically in modelling electron transmissions in chains of atoms.
 
 ---
 
@@ -18,7 +18,7 @@ Hi! I'm Gabriela Campbell, a 4th year undergraduate at Butler University's colle
 - Programming Languages: Python, C++, Java
 - Tools: Git, VS Code
 - OS: Linux, Windows
-- Others: LaTeX, Mathematica
+- Others: Mathematica, LaTeX
 
 ---
 
@@ -26,8 +26,8 @@ Hi! I'm Gabriela Campbell, a 4th year undergraduate at Butler University's colle
 
 ### 📌 Automating the Fragmentation of Proteins
 
-**Description**: Currently, preferred energy models for predicting enzymatic reactions are very expensive. We can break up the energy calculations of proteins, ligands, and their environment into smaller, more manageable calculations to approximate the reaction. However, there are many ways to break these calculations up, resulting in varying accuracy. This project aims to develop an automated solution to fragmenting proteins that minimizes the error in the approximation.
-**Tech Stack**: Python, GitHub, SQLite  
+**Description**: I'll be working with my mentors on Machine Learning or AI approaches to automating the fragmentation of proteins. The goal is to reduce the cost of energy calculations by finding out the best way to break up the calculation, then measuring how accurate the final energy approximation is to experimental results.  
+**Tech Stack**: Python, GitHub, SQLite
 
 
 ---
@@ -35,13 +35,15 @@ Hi! I'm Gabriela Campbell, a 4th year undergraduate at Butler University's colle
 ## 📈 Goals for This Internship
 
 - [ ] Learn more about real-world version control workflows (Git)
-- [ ] Analyze from a mathematic perspective.
+- [ ] Analyze code from a mathematic perspective
 - [ ] Build strong Python + Linux foundations
-- [ ] Gain further knowledge in Physical Chemistry
+- [ ] Gain further experience in physical chemistry research
 
 ---
 
 ## 🔗 Links
 
 - GitHub: [@gecampbell6202](https://github.com/gecampbell6202)
+
+
 ---
