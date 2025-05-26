@@ -22,6 +22,12 @@ This page is a one-stop shop for perusing resources affiliated with the SIMCODES
 <embed src="https://raw.githubusercontent.com/SIMCODES-ISU/training_materials/main/orientation/orientation.pdf" type="application/pdf" width="640" height="400"/>
 </center>
 
+## Introduction to Reactions
+
+<center>
+<embed src="https://raw.githubusercontent.com/SIMCODES-ISU/training_materials/main/reactions/An_Interdisciplinary_Study_of_Chemical_Kinetics.pdf" type="application/pdf" width="640" height="400"/>
+</center>
+
 ## Coding 101: Setting Up a Software Development Environment (SDE)
 
 <center>
