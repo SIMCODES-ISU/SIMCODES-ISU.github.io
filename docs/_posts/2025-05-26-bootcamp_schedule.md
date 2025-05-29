@@ -208,9 +208,31 @@ On your own.
 - Mentor: Davit and Xueyu
 - Issue # 29
 
+### Hands-On Python Tutorial 10 AM - 12 PM
+
+- Mentor: Ryan
+- Topics:
+  - Fundamentals of a Python project.
+  - Creating a bare-bones Python project.
+  - Test-driven development of a Python module.
+  - Optimizing a Python module.  
+- Technologies we will use:
+  - Terminal
+  - Python
+  - VSCode or other IDEs at your discretion 
+
 ### Lunch 12 PM - 1PM
 
 On your own.
+
+### Mentor Meeting 1 PM -
+
+- Mentors: All
+- Goal:
+ - Mentors meet with mentees.
+ - Introduce mentees to the rest of the mentor's research group.
+ - Introduce mentees to the research space.
+ - Project-specific onboarding.
 
 ### Boardgame and Pizza Dinner 6 PM
 
