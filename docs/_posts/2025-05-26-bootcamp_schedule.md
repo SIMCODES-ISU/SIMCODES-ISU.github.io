@@ -171,7 +171,17 @@ On your own.
 ### Intro to Quantum Chemistry 10 AM - 12 PM
 
 - Mentor: Peng
-- Issue #28
+- Topics:
+  - Wave function
+  - Schrodinger Equation
+  - The Hamiltonian
+  - Hydrogen Atom
+  - Helium Atom
+  - Chemical Bond
+  - Intermolecular Forces
+  - Fragmentation approaches
+- Technologies:
+  - None  
 
 ### Lunch 12 PM - 1 PM
 
