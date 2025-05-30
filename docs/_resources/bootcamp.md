@@ -40,13 +40,11 @@ This page is a one-stop shop for perusing resources affiliated with the SIMCODES
 <embed src="https://raw.githubusercontent.com/SIMCODES-ISU/training_materials/main/github/github.pdf" type="application/pdf" width="640" height="400"/>
 </center>
 
-## Bootcamp Overview
+## Bootcamp Overview and Enzymes as Catalysts
 
-Slides forthcoming.
-
-## Enzymes as Catalysts
-
-Slides forthcoming.
+<center>
+<embed src="https://raw.githubusercontent.com/SIMCODES-ISU/training_materials/main/overview/REU_intro.pdf" type="application/pdf" width="640" height="400"/>
+</center>
 
 ## Intro to Software Engineering: Writing code that works
 
