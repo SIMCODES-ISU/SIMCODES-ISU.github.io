@@ -25,11 +25,11 @@ permalink: /calendar/
         },
         {
           title: 'Mid-Term Presentations',
-          start: '2025-07-10'
+          start: '2025-07-11'
         },
         {
           title: 'Final Symposium',
-          start: '2025-08-01'
+          start: '2025-07-31'
         },
         {
         title: 'Songwriter Showcase: Wolfskill and The Wild',
