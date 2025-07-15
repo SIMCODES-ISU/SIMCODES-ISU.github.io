@@ -7,7 +7,8 @@ image:
   path: /resources/images/bootcamp_banner.png
 ---
 
-This page is a one-stop shop for perusing resources affiliated with the SIMCODES Bootcamp. Resources can be downloaded from 
+This page is a one-stop shop for perusing resources affiliated with the SIMCODES
+Bootcamp. Resources can be downloaded from 
 [here](https://github.com/SIMCODES-ISU/training_materials).
 
 ## Introductions

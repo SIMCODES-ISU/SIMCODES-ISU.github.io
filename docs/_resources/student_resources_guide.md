@@ -2,6 +2,9 @@
 title: Educational Resources for Students
 layout: page
 permalink: /student-resources/
+image:
+  thumbnail: /resources/images/educational_resources.png
+  path: /resources/images/educational_resources.png
 ---
 
 # Educational Resources for Students
