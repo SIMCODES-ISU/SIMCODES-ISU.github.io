@@ -9,47 +9,57 @@ image:
 
 # About Me
 
-Hi! I'm Devarsh Shroff, upcoming Third Year Computer Science student at San \
-Jose State University (SJSU). I’m passionate about software development and also \
+Hi! I'm Devarsh Shroff, upcoming junior in Computer Science student at San 
+Jose State University (SJSU). I’m passionate about software development and also 
 an AI/ML enthusiast, and currently exploring research opportunities in this field.
 
 ---
 
 ## 🛠 Skills & Technologies
 
-- Programming Languages: Python, C++, MySQL, Assembly Language 
+- Programming Languages: Python, C++, MySQL, Assembly Language, BASH 
 - Tools: Git, VS Code, Pycharm, Clion
 - OS: macOS
-- Others: TensorFlow (keras) 
+- Others: TensorFlow (keras), NetwrokX, scikit-learn, xTB, etc. 
 
 ---
 
 ## 📚 Projects or SIMCODES Contributions
 
-### 📌 Project Name or Internship Work
+### 📌 Automating the Fragmentation of proteins
 
-**Description**: Time series based market prediction   
-**Tech Stack**: Python, TensorFlow, LSTM based RNN   
-**Link**: [Stock Market Price Predictor with LSTM keras](https://github.com/DevarshShroff/Stock-Market-Price-Predictor-with-LSTM-keras-)
+**Description**: This project aims to accelerate energy calculations for proteins by automating fragmentation using graph-based machine learning techniques.
+ We developed a pipeline that uses clustering algorithms (Spectral Clustering, Louvain Method) on molecular graphs to generate chemically accurate fragments,
+ applying hydrogen capping, and runs xTB(energy calculations) calculations in parallel.  We worked on manual validation of capping techniques, hyper-parameter
+ tuning across 2,500+ peptides helped optimize fragmentation accuracy. Chemically-aware edge weighting further improved results, significantly reducing error.
+ Our goal is to further reduce the energy difference and scale the program for proteins.  
+**Tech Stack**: Python, Bash, CLI, xTB, Conda, scikit-learn,NetworkX, etc.  
+**Link**: [Devarsh_Repo](https://github.com/SIMCODES-ISU/Devarsh_Repo)
 
-**Description**: SIMCODES Contribution \ 
-**Tech Stack**:(TBD)\
-**Link**: [SIMCODES GitHub]([https://github.com/yourusername/project](https://github.com/SIMCODES-ISU/SIMCODES-ISU.github.io))
 
 ---
 
 ## 📈 Goals for This Internship
 
-- [ ] Learn more about collabrating in a research environment 
-- [ ] Apply AI/ML Skillset to Analyse Protiens 
-- [ ] strengthen AI/ML based Python Libraries 
-- [ ] Document my learning journey
+- [x]  Learn more about collabrating in a research environment 
+- [x]  Apply AI/ML Skillset to Analyse Protien Fragmentation 
+- [x]  strengthen AI/ML based Python Libraries 
+- [x]  Document my learning journey
+- [x] Learn many new skills with hands on experience 
+
 
 ---
 
 ## 🔗 Links
 
-- GitHub: [@DevarshShroff](https://github.com/DevarshShroff)
-- LinkedIn: [linkedin.com/in/DevarshShroff](https://www.linkedin.com/in/devarsh-shroff-83b1472a2/)
+- **GitHub**: [@DevarshShroff](https://github.com/DevarshShroff)
+- **LinkedIn**: [linkedin.com/in/DevarshShroff](https://www.linkedin.com/in/devarsh-shroff-83b1472a2/)
+
 
 ---
+
+## Advice for Future Students
+
+Research experience is very different from classroom learning; it's hands-on, exploratory, and full of unknowns. Be curious and proactive, think about different
+ ways to approach the problem and don’t hesitate to dig into the details. Mentors are there to guide you and help you see the bigger picture, but you’ll also have
+ the freedom to explore your own solutions. Most importantly, enjoy the experience, connect with others, ask questions, and make the most of your time at Ames!
