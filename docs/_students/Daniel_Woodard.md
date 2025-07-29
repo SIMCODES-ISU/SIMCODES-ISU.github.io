@@ -40,6 +40,7 @@ Hi! I'm Daniel Woodard, but I go by Gus. I am currently a second-year undergrad 
 ## 🔗 Links
 
 - GitHub: [@Gus27123](https://github.com/Gus27123)
-
+- Midterm Presentation: [Link](https://github.com/SIMCODES-ISU/talks_from_the_past/tree/main/2025/midterm_presentations/woodard.pdf)
+- Poster: [Link](https://github.com/SIMCODES-ISU/talks_from_the_past/tree/main/2025/posters/woodard.pdf)
 
 ---

@@ -44,6 +44,7 @@ Hi! I'm Gabriela Campbell, a 4th year undergrad at Butler University's College o
 ## 🔗 Links
 
 - GitHub: [@gecampbell6202](https://github.com/gecampbell6202)
-
+- Midterm Presentation: [Link](https://github.com/SIMCODES-ISU/talks_from_the_past/tree/main/2025/midterm_presentations/campbell.pdf)
+- Poster: [Link](https://github.com/SIMCODES-ISU/talks_from_the_past/tree/main/2025/posters/campbell.pdf)
 
 ---

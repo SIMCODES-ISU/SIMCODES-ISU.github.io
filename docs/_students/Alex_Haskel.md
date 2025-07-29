@@ -44,5 +44,7 @@ Hi! I'm Alex Haskel, currently a third-year undergraduate student at Hunter Coll
 ## 🔗 Links
 
 - GitHub: [@AlexHaskel](https://github.com/alexhaskel)
+- Midterm Presentation: [Link](https://github.com/SIMCODES-ISU/talks_from_the_past/tree/main/2025/midterm_presentations/haskel.pdf)
+- Poster: [Link](https://github.com/SIMCODES-ISU/talks_from_the_past/tree/main/2025/posters/haskel.pdf)
 
 ---
