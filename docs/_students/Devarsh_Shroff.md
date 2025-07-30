@@ -54,7 +54,8 @@ an AI/ML enthusiast, and currently exploring research opportunities in this fiel
 
 - **GitHub**: [@DevarshShroff](https://github.com/DevarshShroff)
 - **LinkedIn**: [linkedin.com/in/DevarshShroff](https://www.linkedin.com/in/devarsh-shroff-83b1472a2/)
-
+- **Midterm Presentation**: [Link](https://github.com/SIMCODES-ISU/talks_from_the_past/tree/main/2025/midterm_presentations/shroff.pdf)
+- **Poster**: [Link](https://github.com/SIMCODES-ISU/talks_from_the_past/tree/main/2025/posters/shroff.pdf)
 
 ---
 

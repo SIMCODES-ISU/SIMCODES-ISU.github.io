@@ -48,5 +48,8 @@ chemistry research. After undergrad, I hope to attend medical school.
 - GitHub: [@steeleal](https://github.com/steeleal)
 - LinkedIn: [linkedin.com/in/yourname](https://linkedin.com/in/yourname)
 - Personal Website (if any): [yourdomain.com](https://yourdomain.com)
+- Midterm Presentation: [Link](https://github.com/SIMCODES-ISU/talks_from_the_past/tree/main/2025/midterm_presentations/steele.pdf)
+- Poster: [Link](https://github.com/SIMCODES-ISU/talks_from_the_past/tree/main/2025/posters/steele.pdf)
+
 
 ---

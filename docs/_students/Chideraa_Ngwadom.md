@@ -46,5 +46,7 @@ Amherst College in the Department of Computer Science and Psychology. I’m pass
 - GitHub: [@chithewiz](https://github.com/chithewiz)
 - LinkedIn: [linkedin.com/in/Chideraa_Ngwadom](https://linkedin.com/in/13a16b24a/)
 - Personal Website (if any): [yourdomain.com](https://yourdomain.com)
+- Midterm Presentation: [Link](https://github.com/SIMCODES-ISU/talks_from_the_past/tree/main/2025/midterm_presentations/ngwadom.pdf)
+- Poster: [Link](https://github.com/SIMCODES-ISU/talks_from_the_past/tree/main/2025/posters/ngwadom.pdf)
 
 ---

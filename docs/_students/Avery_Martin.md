@@ -47,3 +47,5 @@ Hi! My name is Avery Martin, and I'm a first year Biochemistry student at Southe
 ## Links
 - [LinkedIn](https://www.linkedin.com/in/avery-martin-36a73b217/)
 - [GitHub](https://github.com/avmary06)
+- Midterm Presentation: [Link](https://github.com/SIMCODES-ISU/talks_from_the_past/tree/main/2025/midterm_presentations/martin.pdf)
+- Poster: [Link](https://github.com/SIMCODES-ISU/talks_from_the_past/tree/main/2025/posters/martin.pdf)
