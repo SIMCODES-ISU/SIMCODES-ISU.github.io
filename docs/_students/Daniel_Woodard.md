@@ -15,6 +15,9 @@ Hi! I'm Daniel Woodard, but I go by Gus. I am currently a second-year undergrad 
 
 ## 🛠 Skills & Technologies
 
+- Python
+- VS Code
+- Unix 
 
 
 ---
@@ -23,9 +26,11 @@ Hi! I'm Daniel Woodard, but I go by Gus. I am currently a second-year undergrad 
 
 ### Automating the Fragmentation of Proteins
 
-**Description**: I will be working on the Develop Components for Automating Fragmentation part of the project. 
+**Description**: Enzymes and proteins are large organic molecules that are difficult to simulate due to the lack of computational power. In order to simulate their energy, they must be broken down into amino acids. This is NWChem with the Nova supercomputer provided by Iowa State University. 
 
-**Link**: [GitHub Repo](https://github.com/yGus27123/project)
+**Project Contributions**: During the summer of 2025, I developed several Python scripts to support computational chemistry workflows. These included a script to read and parse PDB files, a converter that transformed dipeptide XYZ files into NWChem input files, and a script that extracted energy values from NWChem output files.
+
+**Link**: [GitHub Repo](https://github.com/SIMCODES-ISU/Gus_repo.git)
 
 ---
 
