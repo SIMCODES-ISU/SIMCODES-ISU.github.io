@@ -24,20 +24,22 @@ Hi! I'm Alex Haskel, currently a third-year undergraduate student at Hunter Coll
 
 ## 📚 Projects or SIMCODES Contributions
 
-### 📌 Project Name or Internship Work
+### 📌 Machine Learning-Enhanced Computational Modeling of Metal-Protein Interactions
 
-**Description**: Short summary of the project or your role.  
-**Tech Stack**: Python, GitHub, SQLite  
-**Link**: [GitHub Repo](https://github.com/yourusername/project)
+**Description**: My work was to extract and clean data, and to analyze it using symbolic regession techniques and neural networks in order to improve quantum chemistry predictions.
+
+In particular, our project consisted in trying to improve the accuracy of damping functions used within the Effective Fragment Potential (EFP) method, a computational approach designed to describe intermolecular interactions. I was responsible for extracting relevant data, putting it into formats suitable for machine learning, designing a symbolic regression pipeline using PySR, and creating a variety of neural networks to deal with the data using PyTorch.
+
+**Tech Stack**: Python, PyTorch, PySR, Scikit-Learn   
+**Link**: [[GitHub Repo](https://github.com/SIMCODES-ISU/CompMetalsAlex)]
 
 ---
 
 ## 📈 Goals for This Internship
 
-- [ ] Learn more about real-world version control workflows (Git)
-- [ ] Contribute to collaborative open-source code
-- [ ] Build strong Python + Linux foundations
-- [ ] Document my learning journey
+- [✓] Use computer science and ML to contribute to an interdisciplinary project
+- [✓] Get hands-on experience with data extraction, regression techniques, and neural networks
+- [✓] Build strong Python + Linux foundations
 
 ---
 
