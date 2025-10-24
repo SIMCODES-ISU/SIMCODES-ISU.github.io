@@ -3,9 +3,10 @@ title: "Ryan M. Richard"
 layout: post
 image:
   path: /mentors/images/ryan_banner.png
-  thumbnail: /images/mentors/ryan_richard.png
+  thumbnail: /images/mentors/ryan_richard.jpeg
   caption: "Fragment Based Method Research"
 author: Ryan Richard
+tags: ["2025", "2026"]
 ---
 
 # About Me

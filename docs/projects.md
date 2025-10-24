@@ -6,3 +6,5 @@ collection: projects
 entries_layout: grid
 ---
 Exciting Research Projects for Interns
+
+Previous projects:
