@@ -6,6 +6,7 @@ image:
   width: 50% # Reduce the display size to 50% of the container
   height: auto
   alt: "A group of scientists cut fragments up with scissors."
+tags: ["2025"]
 ---
 
 Mentors: Qi Li, Ryan Richard, Theresa Windus
