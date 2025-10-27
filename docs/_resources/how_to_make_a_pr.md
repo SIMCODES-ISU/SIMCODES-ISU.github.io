@@ -25,19 +25,15 @@ it.
 ## Tutorial: Adding a New Student Profile
 
 This tutorial will walk you through the process of creating a new student 
-profile. The tutorial was written for the 2026 cohort and thus uses the 2026 
-year throughout. As you work through the tutorial please use the actual year of 
-your cohort and not 2026 (unless you are part of the 2026 cohort or a time 
-traveler). Also please let us know if your experience differs significantly
-from what is shown here as that may mean we need to update the tutorial.
+profile. 
 
 ### Step 1. Navigate to the SIMCODES-ISU.github.io repository
 
 The source code for the SIMCODES website lives 
-[here](https://github.com/SIMCODES-ISU/SIMCODES-ISU.github.io). The actual 
+. The actual 
 website should look something like:
 
-![SIMCODES Website](/resources/images/pr_tutorial/simcodes_website.png)
+
 
 The view in front of you is a file system similar to what you see when
 you use Finder or MacOS or File Explorer on Windows. Like on your local
@@ -46,6 +42,6 @@ lives in the `docs` directory (I don't know why it's called `docs` as opposed
 to `source` or something more sane...). If you click on `docs` it should take
 you to a new file system view that looks something like:
 
-![SIMCODES Website](/resources/images/pr_tutorial/simcodes_website2.png)
 
-From this page you'll need to click on the directory `_students-2026`.
+
+When you get to the `docs` page you 
