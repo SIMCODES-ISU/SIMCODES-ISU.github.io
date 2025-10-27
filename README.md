@@ -28,3 +28,15 @@ Source for the SIMCODES website
    ```.sh
    bundle exec jekyll serve
    ```
+
+## Adding a new cohort
+
+1. Add a directory to `docs` named `_students-XXXX` (replacing `XXXX` with the
+   year).
+2. Add an `images` directory to `_students-XXXX`.
+3. Have students add their profiles to `_students-XXXX` and images to
+   `images`.
+4. Add `students-XXXX` to the "Collections" section of `_config.yaml`. Follow
+   tha pattern for previous cohorts.
+5. Add a new cohort section to `students.md`. Again follow the pattern from
+   previous cohorts. 

@@ -7,6 +7,7 @@ image:
   width: 50% # Reduce the display size to 50% of the container
   height: auto
   alt: "Organization Structure"
+tags: ["2025"]
 ---
 
 Mentors: Xueyu Song, Davit Potoyan

@@ -6,6 +6,7 @@ image:
   thumbnail: /images/mentors/myra_cohen.jpg
   caption: "Software Testing Research"
 author: Myra Cohen
+tags: ["2025"]
 ---
 
 # About Me

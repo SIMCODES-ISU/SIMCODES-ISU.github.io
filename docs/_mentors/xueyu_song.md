@@ -5,6 +5,7 @@ image:
   path: /mentors/images/xueyu_banner.png
   thumbnail: /images/mentors/xueyu_song.png
 author: Xueyu Song
+tags: ["2025"]
 ---
 
 # About Me

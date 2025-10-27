@@ -5,6 +5,7 @@ author: Mark Gordon
 image:
   thumbnail: /images/mentors/mark_gordon.jpg
   path: /mentors/images/mark_banner.png
+tags: ["2025"]
 ---
 
 # About Me

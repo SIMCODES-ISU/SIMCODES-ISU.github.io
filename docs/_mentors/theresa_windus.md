@@ -5,6 +5,7 @@ author: Theresa Windus
 image:
   path: /mentors/images/theresa_banner.png
   thumbnail: /images/mentors/theresa_windus.png
+tags: ["2025", "2026"]
 ---
 
 # About Me
