@@ -15,6 +15,6 @@ Investigator (PI) and/or the Co-PI:
 - Co-PI: [Ryan Richard](https://simcodes-isu.github.io/mentors/ryan_richard/) 
 
 
-![SIMCODES]({{ site.baseurl }}/assets/flyer_V1.png)
+![SIMCODES]({{ site.baseurl }}/assets/flyer/flyer.pdf)
 
 # Latest Posts
