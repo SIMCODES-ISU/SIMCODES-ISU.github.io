@@ -20,5 +20,4 @@ do not fill them out until you are told to.
 - [W9](/resources/forms/w9.pdf)
 - [Electronic Fund Transfer Authorization](/resources/forms/eft.pdf)
 - [ISU badge forms](https://www.isucard.iastate.edu/files/documents/2025-04/Affiliate%20Non%20ISU%20Employee%20Database%20Input%20Form%202026.docx)
-- [Ames National Laboratory Contributor](/resources/forms/ames_contributor.pdf)
 - [FGSAA Form](https://iastate.qualtrics.com/jfe/form/SV_4OUDeL2IGiUPrCJ)
