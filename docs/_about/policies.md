@@ -23,10 +23,9 @@ online or offline.
 > from the REU program at the discretion of the organizers. We expect 
 > participants to follow these rules at all SIMCODES talks/research/activities 
 > and event-related social activities. SIMCODES is also bound by Iowa State 
-> University [policies](https://www.policy.iastate.edu) 
-> on discrimination and harassment. All participants are expected to
-> follow these policies for conduct and reporting of violations of the code of
-> conduct.
+> University [policies](https://www.policy.iastate.edu). All participants 
+> are expected to follow these policies for conduct and reporting of 
+> violations of the code of conduct.
 
 # Travel Reimbursement
 
