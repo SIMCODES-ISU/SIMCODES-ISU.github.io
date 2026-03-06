@@ -7,10 +7,11 @@ image:
   width: 50% # Reduce the display size to 50% of the container
   height: auto
   alt: "Organization Structure"
-tags: ["2025"]
+tags: ["2025", "2026"]
 ---
 
-Mentors: Peng Xu, Mark Gordon, Qi Li, Mengdi Huai
+2026 Mentors: Gregory Curtin, Qi Li
+2025 Mentors: Peng Xu, Mark Gordon, Qi Li, Mengdi Huai
 
 {% include toc %}
 

@@ -11,7 +11,7 @@ image:
 You will be expected to live on ISU's campus as part of SIMCODES. This page
 collects information regarding what you can expect during the ten weeks.
 
-# Living Arrangements
+# Overview
 
 SIMCODES will pay for you to live in either a University owned apartment or a 
 dorm (availability varies from year to year). ISU is fairly strict on the 
@@ -20,25 +20,26 @@ move-in early or move-out late; however, late move-in and early move-out can be
 arranged. Please discuss late move-in/early move-out with the PI and Co-PI as 
 soon as possible to ensure it will work.
 
-In most cases you will share the apartment with one or more other cohort 
-members. If you have roommate preferences please let the PI or Co-PI know. The
-introductions channel on Slack is a great way to get to know other cohort
-members and see if there are any mutual interests. If there are no preferences
-for roommates the PI and Co-PI will assign roommates at their discretion.
+In most cases you will share the apartment/dorm with one or more other cohort 
+members. By default, the PI and Co-PI will assign roommates at their 
+discretion. You are also free to choose your own roommate, and the PI and Co-PI
+will attempt to honor mutually agreed upon preferences.
 
 SIMCODES will arrange for a meal plan. The meal plan can be used at any ISU
 Dining [participant](https://www.dining.iastate.edu/hours-menus/). Dining
 locations are NOT open 24/7 so you will be expected to supplement the meal
 plan with "at-home" cooking.
 
-# Working Arrangements
+# Frederiksen (Freddy) Court
 
-Who your mentor is will determine where your office is. Chemistry mentors will 
-most likely provide you with office space in 
-[Ames Lab](https://maps.app.goo.gl/CZfKRCyXdTYzKz3g8) or the buildings near it. 
-Computer science is not too much further away in 
-[Atanasoff Hall](https://maps.app.goo.gl/iHH4WR7VatxncoZX8). All locations are 
-within walking distance of university housing, and near CyRide stops.
+The PI and Co-PI feel that Freddy Court is the nicest housing option at ISU and
+will by default try to secure space there. It is located 
+[here](https://maps.app.goo.gl/1FjGQ1Kg5NHViDEo7). Details about the property 
+can be found [here](https://www.housing.iastate.edu/halls/frederiksen-court/). 
+Freddy Court units have a kitchen and we anticipate that you will eat some meals
+in your unit. Basic cooking and dining supplies (pots, plates, bowls, and 
+silverware) will be provided. If you need anything fancy like your sous vide or 
+cheese board, you’ll have to bring that. 
 
 # What We Will Provide
 

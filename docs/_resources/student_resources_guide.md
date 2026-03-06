@@ -17,6 +17,7 @@ learn topics associated with SIMCODES.
 ---
 ## 🔗 Useful Python Resources
 
+- [PyVerse](https://pyverse.io/python)
 - [Davit’s 3 day tutorial](https://dpotoyan.github.io/Statmech4ChemBio/labs/py-lab/intro.html)
   - Covers scientific and numerical python
 - [Scientific Computing for Chemists](https://tinyurl.com/2sr92mkt) 
@@ -37,6 +38,11 @@ learn topics associated with SIMCODES.
 - [Git Cheat Sheet (PDF)](https://tinyurl.com/45wstha2)
 
 ---
+
+## Useful Linux Resources
+
+- [Linux Journey](https://labex.io/linuxjourney)
+- [Linux Survival](https://linuxsurvival.com/linux-tutorial-introduction)
 
 ## 🔗 Useful Molecular Dynamics Resources
 
