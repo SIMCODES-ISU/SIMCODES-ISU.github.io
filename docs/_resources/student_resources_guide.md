@@ -18,6 +18,9 @@ learn topics associated with SIMCODES.
 ## 🔗 Useful Python Resources
 
 - [PyVerse](https://pyverse.io/python)
+  - Interactive tutorial for Python basics.
+- [Real Python](https://realpython.com/python-modules-packages/)
+  - Good introduction to how Python source is structured.
 - [Davit’s 3 day tutorial](https://dpotoyan.github.io/Statmech4ChemBio/labs/py-lab/intro.html)
   - Covers scientific and numerical python
 - [Scientific Computing for Chemists](https://tinyurl.com/2sr92mkt) 
