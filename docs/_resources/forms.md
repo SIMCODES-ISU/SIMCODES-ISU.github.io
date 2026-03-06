@@ -10,7 +10,7 @@ This is a list of forms that will need to be filled out once you agree to join
 SIMCODES. Many of these forms involve dates and year-to-year specifics. Please
 do not fill them out until you are told to.
 
-- [Offer letter packet](/resources/forms/offer_letter.docx)
+- [Offer letter packet](/resources/forms/offer_letter_2026.pdf)
     - Offer Letter
     - Contact Information
     - Participation Agreement
