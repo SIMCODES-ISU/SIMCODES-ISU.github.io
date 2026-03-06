@@ -66,11 +66,7 @@ to bring that. Ames has a number of second hand stores if you forget something.
     the last decade will suffice.
   - As part of SIMCODES you will get access to Nova, ISU's computing cluster.
     Nova can be used for computationally demanding tasks.
-- Real ID. As part of SIMCODES you will be have the opportunity to be a 
-  contributor to Ames National Laboratory, part of the US Department of Energy's
-  Laboratory system. To onboard you, you must provide a Real ID. 
-  - See [here](https://www.tsa.gov/travel/security-screening/identification) for
-    alternative forms of identification.
+- Real ID. 
 - Charging cables.
 - Day-to-day clothes. Laundry is available.
 - Personnel items.
