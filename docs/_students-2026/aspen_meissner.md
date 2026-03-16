@@ -3,8 +3,8 @@ title: "Aspen Meissner"
 layout: page
 author: "Aspen"
 image:
-  thumbnail: /students-2026/images/aspen_meissner_thumbnail.png
-  path: /students-2026/images/aspen_meissner_header.png
+  thumbnail: /students-2026/images/aspen_meissner_thumbnail.jpg
+  path: /students-2026/images/aspen_meissner_banner.jpg
 ---
 
 # About Me
