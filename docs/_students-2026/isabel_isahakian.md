@@ -3,8 +3,8 @@ title: "Isabel Isahakian"
 layout: page
 author: "Isabel"
 image:
-  thumbnail: /_students-2026/images/isabel_isahakian_thumbnail.png
-  path: /_students-2026/images/isabel_isahakian_header.png
+  thumbnail: /students-2026/images/isabel_isahakian_thumbnail.png
+  path: /students-2026/images/isabel_isahakian_header.png
 ---
 
 # About Me
