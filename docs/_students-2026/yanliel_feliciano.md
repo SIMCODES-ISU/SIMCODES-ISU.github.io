@@ -22,7 +22,7 @@ Natural Sciences. I’m passionate about quemistry and pharmacy to develop solut
 ## 📈 Goals for This Internship
 
 - [ ] Develop skills useful for future research and graduate studies
-- [ ] Develop skills useful for future research and graduate studies
+- [ ] Learn computational chemistry tools
 
 ## 🔗 Links
 
