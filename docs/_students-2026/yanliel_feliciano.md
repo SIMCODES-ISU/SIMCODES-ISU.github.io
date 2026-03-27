@@ -3,8 +3,8 @@ title: "Yanliel Feliciano"
 layout: page
 author: "Yanliel"
 image:
-  thumbnail: /_students-2026/images/yanliel_feliciano_thumbnail.png
-  path: /_students-2026/images/yanliel_feliciano_header.png
+  thumbnail: /students-2026/images/yanliel_feliciano_thumbnail.png
+  path: /students-2026/images/yanliel_feliciano_banner.png
 ---
 
 # About Me
