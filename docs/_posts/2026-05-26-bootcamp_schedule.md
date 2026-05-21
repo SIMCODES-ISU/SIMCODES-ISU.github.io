@@ -5,7 +5,7 @@ title: "2026 Move-in and Bootcamp Schedule"
 This is a work in progress.
 
 The SIMCODES cohort will be arriving in Ames on 5/31. The 2026 SIMCODES 
-Bootcamp will take place from 6/1- in Hach Hall room 1227. Attendance by 
+Bootcamp will take place from 6/1-6/9 in Hach Hall room 1227. Attendance by 
 cohort members is mandatory. Attendance by mentors is strongly encouraged.
 
 Slides will be made available at 
@@ -38,17 +38,18 @@ Location: Freddy Court
 
 - Mentors: All
 - Topics:
-    - Learn more about the mentors.
-    - Learn more about the cohort members.
-    - Light breakfast will be provided (donuts, fruit, granola, and yogurt).
+    - Mentor introductions.
+    - Cohort introductions.
+    - Light breakfast (donuts, fruit, granola, and yogurt).
 - Technologies:
     - N/A
 
 ### Orientation 9:10 AM - 10:00 AM
 
 - Mentor: Ryan
-- Goals:
+- Topics:
     - Program overview.
+    - Safety.
     - Code of conduct.
     - How to get help.
 - Technologies:
@@ -64,12 +65,18 @@ Location: Freddy Court
 - Technologies:
     - N/A
 
+### Travel to Beardshire Hall 10:45 AM - 11:00 AM
+
+- Mentor: Theresa
+- We will walk from Chemistry to Beardshire Hall
+- We will be outdoors so plan accordingly.
+
 ### ISU IDs 11:00 AM - 12:00 PM
 
 - Mentor: Theresa
-- Goals: 
-  - Travel to 0530 Beardshire Hall
-  - Receive ISU ID
+- Badging Office: 0530 Beardshire Hall
+- Bring a photo ID in order to receive your ISU ID
+- Should hopefully not take anywhere near the full hour...
 
 ### Lunch
 
@@ -82,7 +89,6 @@ Location: Freddy Court
 
 - Mentor: Theresa
 - Topics:
-- Goals:
 - Technologies:
 
 
@@ -99,13 +105,17 @@ Location: Freddy Court
 ### Introduction to Proteins 9:00 AM - 10:30 AM
 
 - Mentor: Gregory
-- Goals:
+- Topics:
 - Technologies:
 
 ### Introductory Python I 10:30 AM - 12:00 PM
 
-- Mentor: 
-- Goals:
+- Mentor: Dulitha
+- Topics:
+  - "Hello World"
+  - Printing
+  - Integers, floats, and strings
+  - Containers
 - Technologies:
   - VSCode
   - Python
@@ -115,13 +125,16 @@ Location: Freddy Court
 ### Intro to Quantum Chemistry I 9:00 AM - 10:30 AM
 
 - Mentor: Gregory
-- Goals:
+- Topics:
 - Technologies:
 
 ### Intro to GitHub 10:30 AM - 12:00 PM
 
 - Mentor: Ryan
 - Topics:
+  - What is Version Control?
+  - Git terminology.
+  - Practice version control.
 - Technologies:
   - VSCode
   - GitHub 
@@ -130,8 +143,12 @@ Location: Freddy Court
 
 ### Introductory Python II 9:00 AM - 10:30 AM
 
-- Mentor:
-- Goals:
+- Mentor: Dulitha
+- Topics:
+  - Control flow statements (e.g., if/else)
+  - Iteration (e.g., for and while loops)
+  - Code modularization (e.g., functions and classes)
+  - Software modularization (i.e., modules, packages, etc.)
 - Technologies:
   - VSCode
   - Python
@@ -153,17 +170,24 @@ Location: Freddy Court
 ### ML Theory 9:00 AM - 11:00 AM
 
 - Mentor: Qi
-- Goals:
+- Topics:
 - Technologies:
 
 ### Software Testing 11:00 AM - 12:00 PM
+
+- Mentor:
+- Topics:
+- Technologies:
+  - VSCode
+  - Python
+  - pytest
 
 ## Tuesday (6/9)
 
 ### ML Coding 9:00 AM - 11:00 AM
 
 - Mentor: Qi
-- Goals:
+- Topics:
 - Technologies:
 
 

@@ -29,7 +29,9 @@ Source for the SIMCODES website
    bundle exec jekyll serve
    ```
 
-## Adding a new cohort
+## FAQs
+
+### How do I add a new cohort?
 
 1. Add a directory to `docs` named `_students-XXXX` (replacing `XXXX` with the
    year).
@@ -40,3 +42,7 @@ Source for the SIMCODES website
    tha pattern for previous cohorts.
 5. Add a new cohort section to `students.md`. Again follow the pattern from
    previous cohorts. 
+
+### Add events to the calendar?
+
+See `docs/_data/events.json`.
