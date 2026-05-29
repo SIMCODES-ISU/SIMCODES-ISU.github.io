@@ -105,8 +105,11 @@ Location: Freddy Court
 ### Introduction to Proteins 9:00 AM - 10:30 AM
 
 - Mentor: Gregory
-- Topics:
-- Technologies:
+- Topics: 
+  - Amino acids, 
+  - Peptides, 
+  - Proteins
+- Technologies: N/A
 
 ### Introductory Python I 10:30 AM - 12:00 PM
 
@@ -122,11 +125,15 @@ Location: Freddy Court
 
 ## Thursday (6/4)
 
-### Intro to Quantum Chemistry I 9:00 AM - 10:30 AM
+### Intro to Nova 9:00 AM - 10:30 AM
 
 - Mentor: Gregory
 - Topics:
+  - Accessing Nova
+  - Basic Linux Commands
+  - SLURM job submission
 - Technologies:
+  - Terminal
 
 ### Intro to GitHub 10:30 AM - 12:00 PM
 
@@ -153,12 +160,21 @@ Location: Freddy Court
   - VSCode
   - Python
 
-### Introduction to Quantum Chemistry II 10:30 AM - 12:00 PM
+### Introduction to Quantum Chemistry 10:30 AM - 12:00 PM
 
 - Mentor: Gregory
 - Topics:
+  - Computational Chemistry
+  - Molecular Modeling Scales
+  - Quantum Methods
+  - Geometry optimization
+  - Basis sets
+  - Solvation models
 - Technologies:
-
+  - NWChem
+  - GAMESS
+  - Terminal (to access Nova)
+  
 ### Boardgame and Pizza Dinner 6:00 PM
 
 - Mentor: All
