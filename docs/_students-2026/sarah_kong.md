@@ -4,7 +4,7 @@ layout: page
 author: "Sarah"
 image:
   thumbnail: /_students-2026/images/sarah_kong_thumbnail.png
-  path: /_students-2026/images/sarah_kong_header.png
+  path: /_students-2026/images/sarah_kong_banner.png
 ---
 
 # About Me
