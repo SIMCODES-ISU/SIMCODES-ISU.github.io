@@ -3,8 +3,8 @@ title: "Jasper Steenwinkel"
 layout: page
 author: "Jasper"
 image:
-  thumbnail: /_students-<XXXX>/images/<first>_<last>_thumbnail.png
-  path: /_students-<XXXX>/images/<first>_<last>_header.png
+  thumbnail: /_students-2026/images/jasper_steenwinkel_thumbnail.jpg
+  path: /_students-2026/images/jasper_steenwinkel_header.jpg
 ---
 
 # About Me
@@ -21,8 +21,10 @@ Computer Science and Data Science. I’m passionate about <interests>.
 
 ## 📈 Goals for This Internship
 
-- [ ] <goal 1>
-- [ ] <goal 2>
+-
+- [ ] Learn and apply ML techniques to real-world scientific datasets
+- [ ] Develop a deeper understanding of large-scale data analysis and processing
+- [ ] Expand my knowledge of chemistry and catalytic reactions through computational research
 
 ## 🔗 Links
 
