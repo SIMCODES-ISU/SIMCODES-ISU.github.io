@@ -5,6 +5,7 @@ author: Mengdi Huai
 image:
   thumbnail: /images/mentors/mengdi_huai.png
   path: /mentors/images/mengdi_banner.png
+tags: ["2025"]
 ---
 
 # About Me

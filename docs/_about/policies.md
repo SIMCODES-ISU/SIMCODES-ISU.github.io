@@ -23,10 +23,34 @@ online or offline.
 > from the REU program at the discretion of the organizers. We expect 
 > participants to follow these rules at all SIMCODES talks/research/activities 
 > and event-related social activities. SIMCODES is also bound by Iowa State 
-> University [policies](https://www.policy.iastate.edu/policy/discrimination, 2) 
-> on discrimination and harassment. All participants are expected to
-> follow these policies for conduct and reporting of violations of the code of
-> conduct.
+> University [policies](https://www.policy.iastate.edu). All participants 
+> are expected to follow these policies for conduct and reporting of 
+> violations of the code of conduct.
+
+# Travel Reimbursement
+
+By design, SIMCODES recruits cohorts from students who currently do not attend
+Iowa State University. As such, we expect that each student will need to travel
+to reach ISU. SIMCODES is able to shoulder the burden for that travel (up to the
+amount in your offer letter).
+
+If you are driving, SIMCODES wil reimburse you at ISU's going 
+[mileage rate](https://www.controller.iastate.edu/travel-expenses-allowed). This
+rate is intended to cover gas and "wear and tear" on your car. We will also
+reimburse tolls if you provide receipts. The mileage will be calculated based
+on the distance from your current residence to the dorms. Note that if you
+drive for over 400 miles, mileage reimbursement can not exceed the cost of an 
+equivalent one-way flight.
+
+If you are flying, you can book your itinerary on your own and submit the 
+itinerary and receipts to us for reimbursement. Unfortunately, we can not
+reimburse you until you have flown the entire itinerary, i.e., including your
+return trip. Once we have your itinerary we will arrange for rides to/from the 
+airport. Note that to be reimbursed you must book main cabin (or whatever your 
+airline calls the cheapest ticket that still allows you to pick a seat and bring 
+carry-on), i.e., you can not book a premium cabin, simply because the ticket 
+cost is within the reimbursement window. If you check bags, SIMCODES will also 
+reimburse you for your baggage fees. 
 
 # Dress Code
 

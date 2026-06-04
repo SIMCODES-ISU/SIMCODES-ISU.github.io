@@ -5,6 +5,7 @@ author: Peng Xu
 image:
   path: /mentors/images/peng_xu_banner.png
   thumbnail: /images/mentors/peng_xu.jpg
+tags: ["2025"]
 ---
 
 # About Me

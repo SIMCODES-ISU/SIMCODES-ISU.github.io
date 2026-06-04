@@ -5,6 +5,7 @@ image:
   thumbnail: /images/mentors/qi_li.jpg
   path: /images/AI_chemistry.png
 author: Qi Li
+tags: ["2025", "2026"]
 ---
 
 # About Me

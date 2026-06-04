@@ -19,6 +19,8 @@ google_fonts:
   - name: "Lora"
     weights: "400,400i,700,700i"
 
+assets:
+  css: "/assets/css/styles.css"
 
 # Liquid
 liquid:
@@ -62,7 +64,10 @@ collections:
   resources:
     output: true
     permalink: /:collection/:path/
-  students:
+  students-2025:
+    output: true
+    permalink: /:collection/:path/
+  students-2026:
     output: true
     permalink: /:collection/:path/
 

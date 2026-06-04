@@ -6,3 +6,8 @@ docs/_site
 #VSCode Settings
 .vscode/
 .DS_Store
+
+#LaTeX temporary files
+*.aux
+*.log
+*.synctex.gz

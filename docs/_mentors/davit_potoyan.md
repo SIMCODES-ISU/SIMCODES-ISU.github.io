@@ -5,6 +5,7 @@ author: Davit Potoyan
 image:
   thumbnail: /images/mentors/davit_potoyan.jpg
   path: /mentors/images/davit_banner.png
+tags: ["2025"]
 ---
 
 # About Me

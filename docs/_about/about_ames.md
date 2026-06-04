@@ -11,6 +11,18 @@ image:
 The SIMCODES REU takes place at Iowa State University (ISU) located in Ames, 
 IA. This page provides essential details about Ames and the surrounding areas.
 
+# Getting to Ames
+
+If you are flying, the closest commercial airport is the Des Moines Airport, 
+DSM (https://www.flydsm.com/). It is about a 40-minute taxi, Uber, or Lyft ride 
+from DSM to ISU. We encourage you to send us your itinerary ahead of time, and 
+we will see if we can arrange a ride for you. 
+
+If you are driving know that parking is plentiful throughout Ames. Most parking
+in Ames is free, though there are meters downtown (they're quite cheap though).
+If you are driving we will ensure that you have a parking space at the dorms.
+The cost of parking will be picked up by SIMCODES. 
+
 # Things to do in and around Ames (besides research)
 Contrary to popular belief, there are things to do in Iowa besides pick corn
 (you’ll be leaving before it’s ready to pick, so hopefully, you don’t have your 
@@ -48,15 +60,18 @@ latter two are our grocery stores).
 Generally, speaking most people either take CyRide or drive around Ames. It is
 hoped that cohort members that drive to Ames will be willing to provide rides to
 cohort members that fly. However, if you find yourself unable to find a ride,
-consider reaching out to other members of your mentor's group. 
+consider reaching out to other members of your mentor's group. Additionally,
+graduate students in the PI's and Co-PI's research group are usually willing to
+provide rides if need be.
 
 # Extracurricular Activities
 
 We know that moving to a new city for a summer program is intimidating. To that
-end, the SIMCODES team will try to host five or so extracurricular get 
+end, the SIMCODES team will try to host a few extracurricular get 
 togethers throughout the summer.
 
 Examples include:
 
 - Pizza and board game night.
 - Fireworks around the July 4.
+- Escape room.
