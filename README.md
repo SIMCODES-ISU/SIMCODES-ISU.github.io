@@ -46,3 +46,7 @@ Source for the SIMCODES website
 ### Add events to the calendar?
 
 See `docs/_data/events.json`.
+
+### Bushman's Changes!
+
+Hi hello this is my change I hope you like it a whole lot.
