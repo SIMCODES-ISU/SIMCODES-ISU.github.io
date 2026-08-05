@@ -4,7 +4,7 @@ layout: page
 author: "Carter"
 image:
   thumbnail: /_students-2026/images/carter_close_thumbnail.png
-  path: /_students-2026/images/carter_close_header.png
+  path: /_students-2026/images/carter_close_banner.png
 ---
 
 # About Me
