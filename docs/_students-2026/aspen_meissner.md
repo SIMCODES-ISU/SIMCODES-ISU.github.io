@@ -16,9 +16,10 @@ everything else under the sun.
 
 ## 📚 Project Name or Internship Work
 
-**Description**: 
-**Tech Stack**: 
-**Link**: 
+**Description**: Creating a python library to determine the primary 
+structure of proteins from Cartesian coordinates.
+**Tech Stack**: Python
+**Link**: [atom2seq](https://github.com/SIMCODES-ISU/atom2seq)
 
 
 ## 📈 Goals for This Internship
