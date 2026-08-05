@@ -24,8 +24,8 @@ structure of proteins from Cartesian coordinates.
 
 ## 📈 Goals for This Internship
 
-- [ ] Get experience in a formal research setting
-- [ ] Learn about new and interesting topics!
+- [X] Get experience in a formal research setting
+- [X] Learn about new and interesting topics!
 
 ## 🔗 Links
 
