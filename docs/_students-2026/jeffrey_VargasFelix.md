@@ -1,9 +1,10 @@
+---
 title: "Jeffrey Vargas Felix"
 layout: page
 author: "Jeffrey"
 image:
-  thumbnail: /_students-2026/images/jeffrey_vargas_thumbnail.png
-  path: /_students-2026/images/jeffrey_vargas_header.png
+  thumbnail: /students-2026/images/jeffrey_vargas_thumbnail.JPG
+  path: /students-2026/images/jeffrey_vargas_header.jpeg
 ---
 
 # About Me

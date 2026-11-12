@@ -3,8 +3,8 @@ title: "Jasper Steenwinkel"
 layout: page
 author: "Jasper"
 image:
-thumbnail: /_students-2026/images/jasper_steenwinkel_thumbnail.jpg
-path: /_students-2026/images/jasper_steenwinkel_header.jpg
+  thumbnail: /students-2026/images/jasper_steenwinkel_thumbnail.jpg
+  path: /students-2026/images/jasper_steenwinkel_header.jpg
 ---
 
 # About Me

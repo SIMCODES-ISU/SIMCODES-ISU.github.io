@@ -3,8 +3,8 @@ title: "Ella Bushman"
 layout: page
 author: "Ella"
 image:
-  thumbnail: /_students-2026/images/ella_bushman_thumbnail.jpg
-  path: /_students-2026/images/ella_bushman_banner.jpg
+  thumbnail: /students-2026/images/ella_bushman_thumbnail.jpg
+  path: /students-2026/images/ella_bushman_banner.jpg
 ---
 
 # About Me

@@ -3,8 +3,8 @@ title: "Carter Close"
 layout: page
 author: "Carter"
 image:
-  thumbnail: /_students-2026/images/carter_close_thumbnail.png
-  path: /_students-2026/images/carter_close_banner.png
+  thumbnail: /students-2026/images/carter_close_thumbnail.png
+  path: /students-2026/images/carter_close_banner.png
 ---
 
 # About Me
